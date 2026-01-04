@@ -1,4 +1,37 @@
-## Hi there 👋
+# Hi 👋 I'm Jivika Kaushik  
+
+🎓 BCA Student | 📊 Aspiring Data Analyst / Data Scientist  
+🐍 Python | 📈 Data Analysis | 🧠 Machine Learning  
+
+---
+
+## 🚀 About Me
+- 4th Semester BCA student  
+- Strong interest in **Data Analytics & Data Science**
+- Currently learning **Python**
+- Goal: Crack top tech companies & data roles  
+
+---
+
+## 🛠️ Skills
+- Programming: Python  
+- Tools: Git, GitHub
+
+---
+
+## 📂 Projects
+🔹 **Python Basics Programs**  
+
+👉 Check repositories below 👇  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (www.linkedin.com/in/jivika-kaushik-674a4a382)
+- Email: (kaushikjivika@gmail.com)
+
+⭐ *Always learning, always building.*
+
 
 <!--
 **kaushikjivika-png/kaushikjivika-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
